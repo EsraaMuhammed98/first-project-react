@@ -1,0 +1,26 @@
+nav{
+    background-color: #2C3E50;
+   padding: 20px !important;
+}
+nav .nav-link{
+    margin-right: 10px;
+    border-radius: 15px;
+
+}
+nav .navbar-brand{
+    font-size: 32px;
+}
+nav .nav-link , nav .navbar-brand{
+    color: #fff !important;
+    font-weight: bold;
+}
+
+nav .nav-link:hover , nav .navbar-brand:hover{
+    color: #fff;
+}
+
+.nav-link:focus{
+    color: white !important;
+    border-radius: 15px;
+    background-color: #1ABC9D;
+}

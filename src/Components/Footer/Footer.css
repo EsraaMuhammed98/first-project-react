@@ -1,0 +1,28 @@
+footer{
+    color: white;
+}
+footer .footer-top{
+    background-color: #2C3E50;
+    padding-block: 50px;
+}
+footer .footer-top .col-md-4{
+    padding-block: 20px;
+}
+footer .footer-top .about ul{
+    display: flex;
+    justify-content: center;
+}
+footer .footer-top .about ul li i{
+    border-radius: 50%;
+margin-inline: 10px;
+padding: 10px;
+border: 1px solid white;
+}
+footer .footer-down{
+    margin-bottom: 0;
+    padding: 10px;
+    background-color: #1A252F;
+}
+footer p{
+    padding-top: 10px;
+}

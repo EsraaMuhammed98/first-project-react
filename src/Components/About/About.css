@@ -1,0 +1,22 @@
+#about , #home{
+    background-color: #1ABC9D;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+
+#about h1 , #home h1{
+    color: #fff !important;
+}
+#home .underline-style span:first-of-type, 
+#home .underline-style span:last-of-type,
+#about .underline-style span:first-of-type 
+,#about .underline-style span:last-of-type{
+    background-color: #fff !important;
+}
+#about .about-content{
+    padding: 50px;
+
+}
